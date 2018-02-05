@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"previous",
+				"previousWaypoint"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"out",
+				"outerWidth"
+			],
+			[
+				"prev",
+				"previousWaypoint"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"grey",
+				"grey-light"
+			],
+			[
+				"blue",
+				"blue-light"
+			],
+			[
+				"Gre",
+				"grey-light"
+			],
+			[
+				"g",
+				"grey-light"
+			],
+			[
+				"loc",
+				"localStorage"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sass",
+		"selected_items":
+		[
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"SassBea",
+				"SassBeautify"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/sass",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/sass/owlcarousel"
+	],
+	"file_history":
+	[
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/style.css",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/sass/_overrides.scss",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/sass/app.scss",
+		"/Users/bsmith/Desktop/OhSoVivant_files/boothBuilder.css",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/template-parts/header/header-image.php",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/template-parts/header/site-branding.php",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/template-parts/navigation/navigation-top.php",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/sass/_variables.scss",
+		"/Users/bsmith/gatewayarchsite/sass/_variables.scss",
+		"/Users/bsmith/gatewayarchsite/js/app.js",
+		"/Users/bsmith/gatewayarchsite/sass/header.scss",
+		"/Users/bsmith/gatewayarchsite/imageScraper/imageScraper.js",
+		"/Users/bsmith/gatewayarchsite/sass/events.scss",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/sass/_gridboxes.scss",
+		"/Users/bsmith/gatewayarchsite/style.css",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/functions.php",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/meetingnotes.txt",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/ourteam.html",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/gulpfile.js",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/index.html",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/ourwork.html",
+		"/Users/bsmith/gatewayarchsite/sass/_normalize.css",
+		"/Users/bsmith/Desktop/RedVanRedesign/redvan-child/js/app.js",
+		"/Applications/Utilities/Adobe Creative Cloud/ACC/resource/UICore/resources/js/bundles/hex/gateway.js",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_core_cartridge_scss_default__accordion_Before_7508baeadf05330a934777e444cb10ed3df2a4d1.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/scss/default/_product-override.scss",
+		"/Users/bsmith/gatewayarchsite/sass/footer.scss",
+		"/Users/bsmith/gatewayarchsite/tribe-events/modules/meta/details.php",
+		"/Users/bsmith/gatewayarchsite/header.php",
+		"/Users/bsmith/gatewayarchsite/sass/form.scss",
+		"/Users/bsmith/gatewayarchsite/css/events.scss",
+		"/Users/bsmith/gatewayarchsite/footer.php",
+		"/Users/bsmith/gatewayarchsite/template_ben.php",
+		"/Users/bsmith/gatewayarchsite/app.js",
+		"/Users/bsmith/gatewayarchsite/gulpfile.js",
+		"/Users/bsmith/gatewayarchsite/timeline.html",
+		"/Users/bsmith/gatewayarchsite/schedulestack.html",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/_product_tiles.scss",
+		"/Users/bsmith/gatewayarchsite/sass/normalize.css",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/templates/default/product/producttile.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/_accordion.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_product_tiles.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/product/_pdp-last-visited.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/scss/default/_product_detail_page-override.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/product/_pdp-recently-viewed.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/_product_detail_page.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_product_detail_page.scss",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_bootbarn_cartridge_scss_default__product-override_Before_4e261d5630df0056b83964f3448257950ce4a9dd.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/js/sheplers/lazyloadPersonalization.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/slots/content/contentassetjson.isml",
+		"/Users/bsmith/Downloads/showMerryMailHintButton_custom_pref.xml",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_bootbarn_cartridge_templates_default_rendering_category_categoryproducthits_Before_1e21e48a05a57d154526a38a9311e684061c3b32.isml",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_sheplers_cartridge_templates_default_rendering_category_categoryproducthits_Before_2a63563529ca63db76494134aa9d7ebbc63d4806.isml",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_sheplers_cartridge_templates_default_rendering_category_categoryproducthits_Before_5b7ef535a0071d0c4e6da3493e5d7698483e388e.isml",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_sheplers_cartridge_templates_default_rendering_category_categoryproducthits_Before_1e21e48a05a57d154526a38a9311e684061c3b32.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/templates/default/rendering/category/categoryproducthits.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/templates/default/rendering/category/categoryproducthits.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/product/lastvisited.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/templates/default/product/lastvisited.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_controllers/cartridge/controllers/Stores.js",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_controllers_cartridge_controllers_Stores_Before_ffe40bb33176e418361f48463c77af456b620076.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/bootbarns_controllers/cartridge/controllers/Stores.js",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_bootbarns_controllers_cartridge_controllers_Stores_Before_ffe40bb33176e418361f48463c77af456b620076.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/rendering/folder/holidaycontent.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/_base_elements.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/_product_lists.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/_page_layouts.scss",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_bootbarns_controllers_cartridge_controllers_Stores_Before_9758ad1645837df67f24571c4ad4916178e9243d.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_controllers/cartridge/controllers/StoreInventory.js",
+		"/private/var/folders/4r/qxffffg10wq946wnnwfn9yb40000gp/T/cartridges_app_storefront_controllers_cartridge_controllers_Stores_Before_9758ad1645837df67f24571c4ad4916178e9243d.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/components/header/stores.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/js/app.js",
+		"/Users/bsmith/Downloads/5f30e1f8-9afd-4b66-bab5-5afbabb2a393.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/components/header/htmlhead.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/templates/default/components/header/header.isml",
+		"/Users/bsmith/Downloads/20170927_SystemObjects_Dev08_Content_gtmEvent.xml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/js/currency.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/scss/default/_search-override.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/common/gtmcart.isml",
+		"/Users/bsmith/Downloads/H2-to-H1-mobile-category-ASSETSONLY.xml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_category_landing_page.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_search_results_grid_layout.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_section.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_countryoutfitters/cartridge/scss/default/_section.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/scss/default/_category_landing_page.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/scss/default/_homepage.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_homepage.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_navigation.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/gulpfile.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/scss/default/_checkout-override.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/style.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/templates/default/components/header/header.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/package.json",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/static/default/js/bootbarn/app.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_banners.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_base_elements.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_icons.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/templates/resources/locale.properties",
+		"/Users/bsmith/Desktop/H2-to-H1-mobile-category-ASSETSONLY 2.xml",
+		"/Users/bsmith/Desktop/H2-to-H1-mobile-category-ASSETSONLY.xml",
+		"/Users/bsmith/Desktop/H2-to-H1-mobile-category-headers-ASSETSONLY.xml",
+		"/Users/bsmith/Downloads/categoryH1Update.xml",
+		"/Users/bsmith/Desktop/SpringsteenNotes.txt",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/product/components/productimages.isml",
+		"/Users/bsmith/Downloads/exportForH1Update.xml",
+		"/Users/bsmith/BootBarn-dw/cartridges/bootbarn_rsp/cartridge/scss/default/_checkout.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/scss/default/_checkout.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_bootbarn/cartridge/scss/default/_cart-override.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/js/sheplers/akamai.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/templates/default/product/producttopcontent.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_core/cartridge/templates/default/includes/sizematrix.isml",
+		"/Users/bsmith/thebumbershoot/a_announcement.php",
+		"/Users/bsmith/Desktop/bumbershoot-ci.yml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/templates/default/product/productcontent.isml",
+		"/Users/bsmith/OutDoorVoicesRepos/outdoor-voices/ov-sfcc/core/cartridges/app_ov_react/ReadMe.md",
+		"/Users/bsmith/BootBarn-dw-static/sheplers/css-src/styles.scss",
+		"/Users/bsmith/OutDoorVoicesRepos/outdoor-voices/ov-sfcc/core/cartridges/app_ov_react/cartridge/controllers/KitController.js",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/templates/default/components/header/htmlhead_UI.isml",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/style-cdn.scss",
+		"/Users/bsmith/Downloads/fontawesome-webfont.woff2",
+		"/Users/bsmith/Downloads/fontawesome-webfont.eot",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_customerservice.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_form.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_confirmation.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_checkout.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_cart.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/app_storefront_sheplers/cartridge/scss/default/_btn.scss",
+		"/Users/bsmith/BootBarn-dw/cartridges/dw.json"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navigat",
+			"circleLogo",
+			"header",
+			"<header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "redvan-child.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

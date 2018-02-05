@@ -1,0 +1,19 @@
+/*
+ Theme Name:     Redvan Child Theme
+ Theme URI:      https://wordpress.org/themes/twentyseventeen/
+ Description:    Redvan Child Theme for Twenty Seventeen. 
+ Author:         Ben Smith
+ Author URI:     https://www.elegantthemes.com
+ Template:       twentyseventeen
+ Version:        1.0.0
+*/
+
+/*
+@import url("../twentyseventeen/style.css");
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+/* sass built app.css */
+@import url("./css/app.css");
