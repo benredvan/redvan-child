@@ -1,0 +1,57 @@
+/*
+
+_header.scss
+*/
+#main-header{
+	#logo{
+		width: 130px;
+		height: 130px;
+		position: absolute;
+		max-height: inherit;
+		margin-top: 1em;
+	}
+
+	#top-menu{
+		li{
+			padding-right: 3em;
+
+			&.current-page-item{
+				border-bottom: 4px solid $red;
+			}
+			> a{
+	    		border-bottom: 4px transparent solid;
+	    		position: relative;
+	    		transition: .5s;
+
+				&:before, &:after{
+					position: absolute;
+					content: ' ';
+					height: 2px;
+					width: 0%;
+					bottom: 33%;
+					transition: .5s;
+					background: $black;
+					text-shadow: 0 -2px 0 $black;
+				}
+				&:before{
+					left: 0;
+				}
+				&:after{
+					right: 0;
+					bottom: calc(33% - 2px);
+				}
+				&:hover{
+	    			color: $red;
+					opacity: 1;
+					position: relative;
+					text-shadow: 0 2px 5px rgba(0,0,0,.1);
+
+					&:after, &:before{
+						width: 100%;
+						background: $red;
+					}
+				}
+			}
+		}
+	}
+}

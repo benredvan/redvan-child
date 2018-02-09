@@ -1,4 +1,4 @@
-$outerWidth: 1200px;
+$outerWidth: 1080px;
 $innerWidth: 980px;
 $mobileWidth: 768px;
 
@@ -16,8 +16,6 @@ $grey: #212121;
 $grey-light: #484848;
 
 
-
-
 //mixin
 @mixin respond($media) {
   @if $media == mobile {
@@ -26,61 +24,4 @@ $grey-light: #484848;
   @if $media == big{
   	@media (min-width: $outerWidth) { @content; }
   }
-}
-
-//text
-h1, h2, h3, h4, h5{
-	font-weight: normal;
-    margin: 0 0 8px;
-}
-h1{
-	font-size: 34px;
-}
-h2{
-	font-size: 26px;
-}
-h3{
-    font-size: 22px;
-}
-
-body{
-    background-color: $white;
-    background-image: url(../images/bg-contours.png);
-    background-size: 300px;
-    background-repeat: repeat;
-    color: $black;
-	font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-
-a{
-	color: $red;
-	text-decoration: underline;
-}
-
-//buttons
-button, .button, input[type="button"], input[type="submit"]{
-	font-family: 'Open Sans', sans-serif;
-	cursor: pointer;
-	border: 0;
-	border-radius: 0;
-	text-transform: uppercase;
-	text-align: center;
-	color: $white;
-	background: linear-gradient(to right, $red-light 0%, $red 50%);
-	background-size: 200%;
-	background-position: left center;
-	text-decoration: none;
-	text-decoration: none;
-	font-weight: bold;
-	box-sizing: border-box;
-	display: inline-block;
-	transition: .3s;
-	letter-spacing: 1.2px;
-	margin-top: 30px;
-	padding: 15px 17px;
-
-	&:hover{
-		background-position: right;
-	}
-
 }
