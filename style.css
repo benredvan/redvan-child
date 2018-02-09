@@ -1,16 +1,15 @@
 /*
  Theme Name:     Redvan Child Theme
- Theme URI:      https://wordpress.org/themes/twentyseventeen/
- Description:    Redvan Child Theme for Twenty Seventeen. 
- Author:         Ben Smith
+ Theme URI:      https://redvanworkshop.com/
+ Description:    A child theme template for Divi 
+ Author:         Red Van Workshop - Ben Smith
  Author URI:     https://www.elegantthemes.com
- Template:       twentyseventeen
+ Template:       Divi
  Version:        1.0.0
 */
 
-/*
-@import url("../twentyseventeen/style.css");
-*/
+
+@import url("../Divi/style.css");
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
