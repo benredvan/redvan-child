@@ -25,3 +25,27 @@ $grey-light: #484848;
   	@media (min-width: $outerWidth) { @content; }
   }
 }
+
+a.contactus{
+	color: $yellow;
+}
+
+
+.columnUp{
+	top: -3em;
+	padding: 1.5em;
+	height: 100%;
+}
+.columnScaleUp{
+	transform: scale(1.2);
+}
+
+.background-white{
+	background: $white;
+}
+.background-black{
+	background: $black;
+}
+.background-red{
+	background: $red;
+}

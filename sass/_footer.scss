@@ -1,0 +1,23 @@
+/*
+	_footer.scss
+*/
+footer#main-footer{
+	
+	background: transparent;
+	text-align: center;
+	color: $black;
+
+	#footer-widgets{
+		padding: 0;
+
+		.footer-widget{
+			text-align: center;
+			color: $black;
+
+			a{
+				color: $black;
+				text-decoration: underline;
+			}
+		}
+	}
+}

@@ -1,14 +1,13 @@
 /*
 
 _header.scss
+http://goodlife-inc.co.jp/
+
 */
+
 #main-header{
 	#logo{
-		width: 130px;
-		height: 130px;
-		position: absolute;
-		max-height: inherit;
-		margin-top: 1em;
+		transform: scale(1.85) translateY(24%);
 	}
 
 	#top-menu{
@@ -51,6 +50,140 @@ _header.scss
 						background: $red;
 					}
 				}
+			}
+		}
+	}
+}
+
+
+/* header homepage content */
+.et_pb_fullwidth_header.homepageHeader{
+	.et_pb_fullwidth_header_container{
+		width: 100%;
+	}
+	.header-content{
+		position: absolute;
+		top: 0;
+		margin: 0;
+		padding: 0 4vw;
+		font-weight: 700;
+		width: 100%;
+		margin-top: 0;
+
+		.et_pb_header_content_wrapper{
+			position: absolute;
+			top: 0;
+
+			.circleLogo{
+				height: 83vh;
+				width: 200px;
+				margin: 0;
+				margin-left: .5vw;
+				background: rgba(183, 28, 28, 0.4);
+				overflow: visible;
+				position: absolute;
+				left: 10vw;
+				top: 2vw;
+
+				img{
+					margin-top: 27vw;
+					transform: scale(1.25) translateX(0px);
+				}
+			}
+		}
+
+		.et_pb_fullwidth_header_subhead{
+			text-align: right;
+			font-size: 1.9vw;
+			line-height: 1.2;
+			letter-spacing: .5px;
+			position: absolute;
+			top: 33vw;
+		}
+		 a.et_pb_button{
+			color: #ffff66;
+			font-size: 2.3vw;
+			line-height: 2;
+			float: right;
+			border: 0;
+			background: transparent;
+			margin: 0;
+			padding: 0;
+			margin-top: .5em;
+			font-weight: 700;
+
+			&:after{
+				display: none;
+			}
+		}
+		a.et_pb_button{
+			border-bottom: 4px transparent solid;
+			position: relative;
+			transition: .5s;
+
+			&:before, &:after{
+				position: absolute;
+				content: ' ';
+				height: 2px;
+				width: 0%;
+				bottom: 33%;
+				transition: .5s;
+				background: $black;
+				text-shadow: 0 -2px 0 $black;
+			}
+			&:before{
+				left: 0;
+			}
+			&:after{
+				right: 0;
+				bottom: calc(33% - 2px);
+			}
+			&:hover{
+				opacity: 1;
+				position: relative;
+
+				&:after, &:before{
+					width: 100%;
+					background: $red;
+				}
+			}
+		}
+
+	}
+}
+
+.partnerHomeHeader{
+	h1{
+		font-size: 3vw;
+		font-weight: bold;
+	}
+}
+.columnUp{
+	top: -3em;
+	padding: 1.5em;
+	height: 100%;
+}
+.columnScaleUp{
+	transform: scale(1.2);
+}
+
+.background-white{
+	background: $white;
+}
+.background-black{
+	background: $black;
+}
+.background-red{
+	background: $red;
+}
+
+.calloutModules{
+	.et_pb_column{
+		padding: 0 1em;
+
+		.et_pb_main_blurb_image{
+			img{
+				height: 130px;
 			}
 		}
 	}
